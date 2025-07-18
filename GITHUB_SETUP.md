@@ -22,7 +22,7 @@ git push -u origin main
 
 ## Step 3: Enable GitHub Pages
 
-1. Go to your repository on GitHub: `https://github.com/ankitamuse/ankitamuse`
+1. Go to your repository on GitHub: `https://github.com/ankitamuse/portfolio`
 2. Click on the **"Settings"** tab
 3. Scroll down to **"Pages"** in the left sidebar
 4. Under **"Source"**, select **"GitHub Actions"**
@@ -30,7 +30,7 @@ git push -u origin main
 
 ## Step 4: Access Your Live Portfolio
 
-Your portfolio will be live at: **https://ankitamuse.github.io/ankitamuse**
+Your portfolio will be live at: **https://ankitamuse.github.io/portfolio**
 
 The GitHub Action will automatically build and deploy your site whenever you push changes to the main branch.
 
@@ -54,5 +54,5 @@ Your local repository is already configured with:
 
 ---
 
-**Portfolio URL**: https://ankitamuse.github.io/ankitamuse
-**Repository**: https://github.com/ankitamuse/ankitamuse
+**Portfolio URL**: https://ankitamuse.github.io/portfolio
+**Repository**: https://github.com/ankitamuse/portfolio
