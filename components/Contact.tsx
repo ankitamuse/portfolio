@@ -47,10 +47,10 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
                     <a 
-                      href="mailto:ankitasikar12@gmail.com"
+                      href="mailto:ankitamuse@gmail.com"
                       className="text-primary-600 hover:text-primary-700 transition-colors"
                     >
-                      ankitasikar12@gmail.com
+                      ankitamuse@gmail.com
                     </a>
                   </div>
                 </div>
@@ -114,7 +114,7 @@ export default function Contact() {
                 
                 <div className="space-y-4">
                   <a
-                    href="mailto:ankitasikar12@gmail.com?subject=Hello Ankita&body=Hi Ankita,%0D%0A%0D%0AI came across your portfolio and would like to connect."
+                    href="mailto:ankitamuse@gmail.com?subject=Hello Ankita&body=Hi Ankita,%0D%0A%0D%0AI came across your portfolio and would like to connect."
                     className="btn-primary w-full flex items-center justify-center gap-2"
                   >
                     <Mail className="h-5 w-5" />

@@ -65,7 +65,7 @@ export default function Header() {
             <Linkedin className="h-5 w-5" />
           </a>
           <a
-            href="mailto:ankitasikar12@gmail.com"
+            href="mailto:ankitamuse@gmail.com"
             className="text-gray-600 hover:text-gray-900 transition-colors"
           >
             <Mail className="h-5 w-5" />
@@ -123,7 +123,7 @@ export default function Header() {
                     <Linkedin className="h-5 w-5" />
                   </a>
                   <a
-                    href="mailto:ankitasikar12@gmail.com"
+                    href="mailto:ankitamuse@gmail.com"
                     className="text-gray-600 hover:text-gray-900 transition-colors"
                   >
                     <Mail className="h-5 w-5" />

@@ -32,7 +32,7 @@ export default function Footer() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="mailto:ankitasikar12@gmail.com"
+                href="mailto:ankitamuse@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <Mail className="h-5 w-5" />
@@ -65,10 +65,10 @@ export default function Footer() {
             <div className="space-y-2">
               <p className="text-gray-400">Bengaluru, India</p>
               <a 
-                href="mailto:ankitasikar12@gmail.com"
+                href="mailto:ankitamuse@gmail.com"
                 className="block text-gray-400 hover:text-white transition-colors"
               >
-                ankitasikar12@gmail.com
+                ankitamuse@gmail.com
               </a>
               <p className="text-gray-400">Open to new opportunities</p>
             </div>
