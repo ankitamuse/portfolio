@@ -2,6 +2,7 @@
 
 import { ArrowRight, Download, Github, Linkedin, Mail } from 'lucide-react'
 import { motion } from 'framer-motion'
+import { getAssetPath } from '@/lib/utils'
 
 export default function Hero() {
   return (
@@ -42,7 +43,7 @@ export default function Hero() {
               <ArrowRight className="h-5 w-5" />
             </a>
             <a
-              href="/resume.txt"
+              href={getAssetPath('/resume.txt')}
               download="Ankita_Sharma_Resume.txt"
               className="btn-secondary flex items-center gap-2 text-lg px-8 py-3"
             >

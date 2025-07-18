@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Mail, Linkedin, Github, MapPin, Download } from 'lucide-react'
+import { getAssetPath } from '@/lib/utils'
 
 export default function Contact() {
   return (
@@ -122,7 +123,7 @@ export default function Contact() {
                   </a>
                   
                   <a
-                    href="/resume.txt"
+                    href={getAssetPath('/resume.txt')}
                     download="Ankita_Sharma_Resume.txt"
                     className="btn-secondary w-full flex items-center justify-center gap-2"
                   >
