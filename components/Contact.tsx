@@ -72,12 +72,12 @@ export default function Contact() {
                   <div>
                     <h4 className="font-semibold text-gray-900">LinkedIn</h4>
                     <a 
-                      href="https://www.linkedin.com/in/ankita-12-sharma"
+                      href="https://www.linkedin.com/in/ankitamuse/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-primary-600 hover:text-primary-700 transition-colors"
                     >
-                      linkedin.com/in/ankita-12-sharma
+                      linkedin.com/in/ankitamuse
                     </a>
                   </div>
                 </div>
@@ -122,8 +122,8 @@ export default function Contact() {
                   </a>
                   
                   <a
-                    href="/resume.pdf"
-                    download
+                    href="/resume.txt"
+                    download="Ankita_Sharma_Resume.txt"
                     className="btn-secondary w-full flex items-center justify-center gap-2"
                   >
                     <Download className="h-5 w-5" />
@@ -131,7 +131,7 @@ export default function Contact() {
                   </a>
                   
                   <a
-                    href="https://www.linkedin.com/in/ankita-12-sharma"
+                    href="https://www.linkedin.com/in/ankitamuse/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-secondary w-full flex items-center justify-center gap-2"

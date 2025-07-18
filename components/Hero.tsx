@@ -42,8 +42,8 @@ export default function Hero() {
               <ArrowRight className="h-5 w-5" />
             </a>
             <a
-              href="/resume.pdf"
-              download
+              href="/resume.txt"
+              download="Ankita_Sharma_Resume.txt"
               className="btn-secondary flex items-center gap-2 text-lg px-8 py-3"
             >
               <Download className="h-5 w-5" />
@@ -66,7 +66,7 @@ export default function Hero() {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="https://www.linkedin.com/in/ankita-12-sharma"
+              href="https://www.linkedin.com/in/ankitamuse/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-shadow text-gray-600 hover:text-gray-900"

@@ -1,0 +1,46 @@
+ANKITA SHARMA
+Senior Software Engineer | Bengaluru, India
+Email: ankitamuse@gmail.com | LinkedIn: https://www.linkedin.com/in/ankitamuse/
+
+SUMMARY
+Experienced Software Engineer with 8 years of expertise in backend development, data engineering, and machine learning solutions. Skilled in leading backend initiatives and building scalable APIs, automation platforms, and cloud-integrated systems using Python, PySpark, Flask, FastAPI, and Kubernetes. Strong background in system design, CI/CD pipelines, data pipeline optimization, and secure microservices architecture.
+
+TECHNICAL SKILLS
+• Programming: Python, Scala, SQL, Pyspark
+• Frameworks & APIs: Flask, FastAPI, Django, Microservices
+• Data Engineering & ML: PySpark, ETL, NLP, Machine Learning, Airflow
+• DevOps & Automation: Docker, Kubernetes, Jenkins, GitHub, Linux, S3, Kafka, Jira, Oracle Cloud (OCI)
+• Monitoring & Testing: Grafana, Locust, Pytest, Splunk, Open Telemetry
+• Security & Access Control: OAuth2, RBAC
+• Databases: MongoDB, SQL, Elasticsearch, Redis
+
+PROFESSIONAL EXPERIENCE
+
+Oracle - Senior Software Engineer | April 2025 – Present | Bengaluru, India
+- Working on real-time analytics and performance insights for enterprise EHR platforms.
+- Leading a project to build a SonarQube issue fixer using Generative AI for automated code remediation.
+
+Cisco - Software Engineer 3 | July 2020 – April 2025 | Bengaluru, India
+- Designed secure, OAuth2-enabled REST APIs to deliver internal data insights across teams.
+- Developed ML-driven log analysis platform to classify errors and map them to known bugs, reducing triage time by over 40%.
+- Transformed support workflows with Jira integration, including ticket creation, user notification, and status tracking.
+- Integrated GitHub Webhooks and Checks with Jenkins pipelines for automated code validation and CI workflows.
+- Built an ML-based auto-fix model to resolve build errors, achieving 88.9% precision for key error types.
+- Created a code search and similarity engine using vector-based retrieval methods, improving dev productivity.
+- Engineered dynamic performance testing modules with Grafana dashboards for API/CLI benchmarking.
+
+Nokia - Data Engineer 2 | July 2017 – July 2020 | Noida, India
+- Designed a Django-based GUI for rule-based alarm suppression and intelligent command handling.
+- Developed ML-powered network optimization tools using PySpark to detect anomalies and predict degradation.
+- Created a data audit framework in Scala to validate input datasets before ETL processing.
+
+EDUCATION
+Malviya National Institute of Technology, Jaipur | CGPA: 8.49/10
+B.Tech. in Electronics & Communication Engineering | July 2013 – May 2017
+
+PUBLICATIONS
+"Detecting Log Anomaly Using Subword Attention Encoder and Probabilistic Feature Selection"
+Published in Applied Intelligence (Springer)
+
+Portfolio: https://ankitamuse.github.io/portfolio
+GitHub: https://github.com/ankitamuse

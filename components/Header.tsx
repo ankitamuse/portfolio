@@ -57,7 +57,7 @@ export default function Header() {
             <Github className="h-5 w-5" />
           </a>
           <a
-            href="https://www.linkedin.com/in/ankita-12-sharma"
+            href="https://www.linkedin.com/in/ankitamuse/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -115,7 +115,7 @@ export default function Header() {
                     <Github className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/ankita-12-sharma"
+                    href="https://www.linkedin.com/in/ankitamuse/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-gray-900 transition-colors"

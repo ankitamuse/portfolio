@@ -97,7 +97,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: ankitamuse@gmail.com
-- **LinkedIn**: [linkedin.com/in/ankita-12-sharma](https://www.linkedin.com/in/ankita-12-sharma)
+- **LinkedIn**: [linkedin.com/in/ankitamuse](https://www.linkedin.com/in/ankitamuse/)
 - **GitHub**: [github.com/ankitamuse](https://github.com/ankitamuse)
 
 ---
