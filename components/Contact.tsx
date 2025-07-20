@@ -1,8 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Mail, Linkedin, Github, MapPin, Download } from 'lucide-react'
-import { getAssetPath } from '@/lib/utils'
+import { Mail, Linkedin, Github, MapPin } from 'lucide-react'
 
 export default function Contact() {
   return (
@@ -120,15 +119,6 @@ export default function Contact() {
                   >
                     <Mail className="h-5 w-5" />
                     Send Email
-                  </a>
-                  
-                  <a
-                    href={getAssetPath('/resume.txt')}
-                    download="Ankita_Sharma_Resume.txt"
-                    className="btn-secondary w-full flex items-center justify-center gap-2"
-                  >
-                    <Download className="h-5 w-5" />
-                    Download Resume
                   </a>
                   
                   <a

@@ -1,8 +1,7 @@
 'use client'
 
-import { ArrowRight, Download, Github, Linkedin, Mail } from 'lucide-react'
+import { ArrowRight, Github, Linkedin, Mail } from 'lucide-react'
 import { motion } from 'framer-motion'
-import { getAssetPath } from '@/lib/utils'
 
 export default function Hero() {
   return (
@@ -33,7 +32,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12"
+            className="flex justify-center mb-12"
           >
             <a
               href="#contact"
@@ -41,14 +40,6 @@ export default function Hero() {
             >
               Get In Touch
               <ArrowRight className="h-5 w-5" />
-            </a>
-            <a
-              href={getAssetPath('/resume.txt')}
-              download="Ankita_Sharma_Resume.txt"
-              className="btn-secondary flex items-center gap-2 text-lg px-8 py-3"
-            >
-              <Download className="h-5 w-5" />
-              Download Resume
             </a>
           </motion.div>
 
